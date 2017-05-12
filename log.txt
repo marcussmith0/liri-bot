@@ -53,3 +53,7 @@
  movie-this friday
  spotify-this-song this is how we do it
  my-tweets
+ my-tweets
+ movie-this wall-e
+ spotify-this-song this is how we do it
+ do-what-it-says
