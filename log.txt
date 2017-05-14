@@ -57,3 +57,11 @@
  movie-this wall-e
  spotify-this-song this is how we do it
  do-what-it-says
+ friday
+ movie-this friday
+ movie-this friday
+ my-tweets
+ spotify-this-song thong song
+ movie-this moana
+ movie-this frozen
+ movie-this

@@ -10,4 +10,4 @@ spotify-this-song <SONGYOUWANTINFOABOUT>
 do-what-it-says
 	Will read the file "random.txt" and "do what it says"
 
-you commands will also be logged to "log.txt" so don't type anything naughty
+your commands will also be logged to "log.txt" so don't type anything naughty

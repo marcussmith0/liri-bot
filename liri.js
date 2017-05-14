@@ -165,8 +165,9 @@ function findTweets() {
 
     var client = new Twitter(twitterKeys.twitterKeys);
     var countNumber = 21;
+    var DOOM =  "MFDOOMisJUSTICE";
 
-    client.get('statuses/user_timeline', {screen_name: 'MFDOOMisJUSTICE', count:countNumber}, function(error, tweets, response) {
+    client.get('statuses/user_timeline', {screen_name: DOOM, count:countNumber}, function(error, tweets, response) {
         
         for (i = 0; i < countNumber; i++) {
 
