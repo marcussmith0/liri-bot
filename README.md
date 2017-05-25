@@ -21,11 +21,11 @@ Followed by the name of the movie you want to search for will return:
 
 If you leave this command blank, it will default to Mr. Nobody.
 	
-### <my-tweets>
+### my-tweets
 
 Will show the last 21 tweets of random user MFDOOMisJUSTICE. You can go into the code and change the username to anyone.
 	
-### <spotify-this-song>
+### spotify-this-song
 
 Followed by the name of the song you want to search for will return:
 
@@ -37,15 +37,15 @@ Followed by the name of the song you want to search for will return:
 If the song input is blank then the program will default to "The Sign" by Ace of Base.
 
 
-### <do-what-it-says>
+### do-what-it-says
 
 This command will read information that is in the file random.txt and one of the commands will run.
 
 If you want change the command in the text file.
 
-my-tweets
-spotify-this-song, <song-name>
-movie-this, <movie-name>
+<strong>my-tweets</strong> <br>
+<strong>spotify-this-song</strong>, "<"song-name">" <br>
+<strong>movie-this</strong>, "<" movie-name ">" <br>
 
 Your commands will also be logged to "log.txt" so don't type anything naughty.
 
